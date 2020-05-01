@@ -1,1 +1,1 @@
-# coding_challenge_8
+THIS IS A SAMPLE PROJECT
