@@ -1,4 +1,4 @@
-#footerTim {
+.footer {
 	background-color: grey;
 	color: white;
   font-family: Monteserrat;
@@ -33,4 +33,55 @@
 .slogan {
   height: 5rem;
   font-size: 2rem;
+}
+
+.section-nucleo-icons .icons-container i:nth-child(6) {
+    top: 36%;
+    left: 44%;
+    font-size: 65px;
+    color: #2CA8FF;
+    padding: 1px;
+}
+
+.description>span {
+  color: #2CA8FF;
+}
+
+#center-aligned {
+  align-content: space-around;
+}
+
+#title {
+  text-align: center;
+}
+
+.testimonial {
+  background: rgba(44,44,44, 0.4);
+}
+
+#carousel {
+  background-color: #2CA8FF;
+  color: white;
+}
+
+.form {
+  padding-bottom: 2rem;
+}
+
+.section-signup {
+    background: rgba(44, 168, 255, 1);
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(90deg, rgba(128, 128, 128, 1), rgba(44, 168, 255, 1));
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(90deg, rgba(128, 128, 128, 1), rgba(44, 168, 255, 1));
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(90deg, rgba(128, 128, 128, 1), rgba(44, 168, 255, 1));
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(0deg, rgba(128, 128, 128, 1), rgba(44, 168, 255, 1));
+  /* Standard syntax */
+}
+
+.btn-info {
+  background-color: white;
+  color: #2CA8FF;
 }
